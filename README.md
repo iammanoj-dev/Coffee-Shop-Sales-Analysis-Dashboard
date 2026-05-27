@@ -1,4 +1,4 @@
-#☕ Coffee Shop Sales Analysis Dashboard 📊#
+#☕ **Coffee Shop Sales Analysis Dashboard** 📊
 
 **📝 Project Overview**
 This project delivers an end-to-end data analysis solution for a coffee shop's sales records using Microsoft Excel. The primary goal is to analyze transaction logs, clean raw data, and extract actionable business insights to optimize sales performance, streamline daily operations, and improve strategic decision-making. 📈
